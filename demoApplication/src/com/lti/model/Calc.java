@@ -11,8 +11,6 @@ public class Calc {
 		System.out.println("multiply: "+(num1*num2));
 	}
 	
-	public void div(int num1,int num2){
-		System.out.println("multiply: "+(num1/num2));
-	}
+	
 	
 }
